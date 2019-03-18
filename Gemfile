@@ -15,6 +15,11 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 
+gem 'devise'
+gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'coffee-rails'
+gem 'jquery-turbolinks'
+
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
